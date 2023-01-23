@@ -1,11 +1,11 @@
 {
-    "name": "untitled2",
-    "short_name": "untitled2",
+    "name": "Gravity Films",
+    "short_name": "Gravity Films",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#1e1e1e",
     "theme_color": "#ffffff",
-    "description": "A new Flutter project.",
+    "description": "Sound | Camera | Action !\nVFX / GFX / SFX / Digital Marketing\nVisual Effects Filmmaking \uD83C\uDFAC",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
