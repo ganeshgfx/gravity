@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: gravityfilms.space
+Token: cc9d4ffc117644bdac222d94aa2015db73c48f883ce6b12473cb1ff7e121e38f
